@@ -1,2 +1,27 @@
-# Week-1-task-at-Developers-hub-internship
-Week 1: Flutter login screen with email/password validation using Column/Row widgets. Navigator.push() to home screen on successful validation. Covers basic UI, form validation, and navigation. Code in this repo
+# Flutter Login UI
+
+A professional Flutter login application with:
+
+- Login Screen
+- Form Validation
+- Navigation to Home Screen
+- Orange & Black Theme
+- Responsive UI
+
+## Features
+
+- Email Validation
+- Password Validation
+- Modern UI Design
+- Reusable Widgets
+
+## Technologies
+
+- Flutter
+- Dart
+
+## Run Project
+
+```bash
+flutter pub get
+flutter run
